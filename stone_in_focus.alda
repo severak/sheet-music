@@ -1,0 +1,26 @@
+# Stone in focus
+# (that song from video with chilling monkey)
+# by Aphex Twin
+
+# as this is ambient piece is has very simple structure
+# but what really makes it is used sound
+# for me - violin works best
+
+(tempo! 20)
+(quant! 85)
+
+motif = [
+	V2: o4 c+ <d f+/b r
+	V1: o3 a >d <g r
+]
+
+midi-violin:
+	(ppp) motif
+	(pp) motif
+	(p) motif
+	(mp) motif *4 # <- there you can make it longer
+	(p) motif
+	(pp) motif
+	(ppp) motif
+	
+	
