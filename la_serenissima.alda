@@ -1,0 +1,19 @@
+# Rondo Veneziano's La serenissima
+
+# WORK IN PROGRESS - this is transcribed from MIDI file and I didn't get timing right yet
+
+(tempo! 124)
+
+oboe: o4
+# tri kousky
+f4 e16 f g a
+e4 e16 f g a
+d4 >e16 f g a # prerusena
+# to samy, o oktavu vyse
+f4 e16 f g a
+e4 e16 f g a
+d4 e16 f g a
+# to samy
+f4 e16 f g a
+e4 e16 f g a
+d4 e16 f g a
