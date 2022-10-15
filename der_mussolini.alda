@@ -1,0 +1,6 @@
+# DAF's Der Mussolini lead melody written in alda.io
+#
+(tempo 90)
+
+midi-electric-guitar-distorted:
+  o3 b16 >e <b >>d | <<<b >b <b b | >b <b >b <b | >b a <b >b
