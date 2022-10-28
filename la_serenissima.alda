@@ -6,14 +6,15 @@
 
 oboe: o4
 # tri kousky
-f4 e16 f g a
-e4 e16 f g a
-d4 >e16 f g a # prerusena
+f2. e16 f g a
+e2. e16 f g a
+d2. >e16 f g a # prerusena
 # to samy, o oktavu vyse
-f4 e16 f g a
-e4 e16 f g a
-d4 e16 f g a
+f2. e16 f g a
+e2. e16 f g a
+d2. e16 f g a
 # to samy
-f4 e16 f g a
-e4 e16 f g a
-d4 e16 f g a
+f2. e16 f g a
+e2. e16 f g a
+d2. e16 f g a
+# and so on and so forth
