@@ -1,0 +1,15 @@
+# My Lady Careys Dompe
+#
+# anonymous renaissance piece for harpsichord
+# 
+# See https://en.wikipedia.org/wiki/My_Lady_Carey%27s_Dompe
+
+(tempo! 75)
+
+guitar: # as harpsichord does not sound good
+
+g8> d4 c8< a+ a g f4. g8 a+ a g f
+g4 a+ a8 g f e f4. g8 a+ a g f
+
+# not finished yet
+r r r
